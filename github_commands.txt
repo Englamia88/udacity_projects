@@ -1,0 +1,13 @@
+first you can create any file by command : touch (file_name).file_type
+2- add this file to git : git add file_name
+3- commit file : git commit -m (comment)
+4- push file : git push ( to add your new code to github) 
+
+
+
+to create tocken ( personal access token )
+1- go to home in github then click on profile photo 
+2- go to setting 
+3- click on developer setting
+4- click on personal access token 
+5- choose generate classic tocken 
